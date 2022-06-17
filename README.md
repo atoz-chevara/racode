@@ -1,4 +1,4 @@
-# RACODE Generator Beta by [belajarphp.net](http://belajarphp.net)#
+# RACODE Generator Beta by [belajarphp.net](http://belajarphp.net)
 Racode Generator adalah sebuah tools yang mempermudah developer dalam proses development,
 tools ini dibangun atas 5 komponen utama yaitu :
 
@@ -11,7 +11,7 @@ tools ini dibangun atas 5 komponen utama yaitu :
 Informasi Selengkapnya 
 https://belajarphp.net/racode-generator-tools-for-development-2/
 
-# Tutorial Membuat Aplikasi Dengan Racode
+# Tutorial Membuat Aplikasi dengan Menggunakan Racode
 
 Dalam waktu dekat saya akan merilis beberapa tutorial membuat aplikasi dengan Racode, tutorial ini akan saya bagikan gratis pada halaman ini.
 
